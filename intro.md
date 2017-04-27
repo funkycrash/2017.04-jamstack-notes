@@ -66,7 +66,9 @@ printLabel(myObj);
 React is awesome but what are the limitations?
 In a word: **SHARING**
 
-We can't get data from other domains. Security concerns are huge.
+We can't get data from other domains. Security concerns are huge. How do we do this in the world of React.
+### Iframes?
+Not ideal. You have to pass everything in an URL. Not really flexible. Not responsive.
 
 
 
