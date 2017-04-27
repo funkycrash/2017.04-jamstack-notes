@@ -95,4 +95,9 @@ Lambda
 
 Checkout A Cloud Guru
 
+## Emily Hayman: Performant Web Animations: Achieving 60fps
+Checkout two CSS properties: `will-change` and `contain`
+
+
+
 
