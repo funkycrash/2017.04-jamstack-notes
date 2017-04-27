@@ -1,4 +1,4 @@
-# Intro
+# JAMStack conference
 
 ## Netlify CEO Matt Biilmann
 The netlify platform gets 60M request on `wp-admin` each month.
