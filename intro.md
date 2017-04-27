@@ -82,7 +82,9 @@ Moderator Jessica Parsons chats with web innovators Wilson Miner, Frances Berrim
 
 ## Erin McKean: You Need An API: Now What?
 LoopBack. A tool for rapidly generating NodeJS REST APIs. Open source maitained by IBM. Free to use and deploy anywhere you can deploy NodeJS.
-Data is plural tiny letter. PLU database
+If you like cool datasets. Checkout Data is plural tiny letter. PLU database
+
+Loopback is on MongoDB
 
 
 
