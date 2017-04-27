@@ -27,5 +27,13 @@ Two types of types in JavaScript.
 - Static
 - Dynamic
 
+*Static Example*
+```
+boolean result = true; OK
+boolean result = '123'; Not OK
+```
+
+*Dynamic Type*
+Type checking happens at runtime.
 
 
