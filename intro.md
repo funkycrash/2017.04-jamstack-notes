@@ -85,6 +85,8 @@ LoopBack. A tool for rapidly generating NodeJS REST APIs. Open source maitained 
 If you like cool datasets. Checkout Data is plural tiny letter. PLU database
 
 Loopback is on MongoDB
+requirements, npm, node and a mongo install.
+
 
 
 
