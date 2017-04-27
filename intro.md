@@ -13,11 +13,13 @@ For E-commerce, check out *GoCommerce JS*
 For user authentication check out *Stormpath*
 
 #### Best Practices
-. Entire project on a CDN
-. Everything lives in Git
-. Modern build tools
-. Automated builds
-. Atomic Deploys
-. Instant Cache Invalidation
+- Entire project on a CDN
+- Everything lives in Git
+- Modern build tools
+- Automated builds
+- Atomic Deploys
+- Instant Cache Invalidation
+
+
 
 
