@@ -36,4 +36,12 @@ boolean result = '123'; Not OK
 *Dynamic Type*
 Type checking happens at runtime.
 
+Tools allowing to use type in JavaScript
+#### Flow (Facebook)
+Flow is much more like a checker. It cheks the type and then you need to use something like babel.
+
+#### Typescript (Microsoft open source)
+Typescript is compiling the file.
+
+
 
