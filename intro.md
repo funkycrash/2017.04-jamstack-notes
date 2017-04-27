@@ -64,7 +64,9 @@ printLabel(myObj);
 ## Daniel Brain: Cross-Domain Components with React and XComponent, at PayPal
 
 React is awesome but what are the limitations?
+In a word: **SHARING**
 
+We can't get data from other domains. Security concerns are huge.
 
 
 
