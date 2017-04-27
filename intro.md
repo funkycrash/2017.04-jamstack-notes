@@ -61,7 +61,8 @@ printLabel(myObj);
 ```
 
 
-## Amjad Masad: Building Towards a Holistic Development Service
+## Daniel Brain: Cross-Domain Components with React and XComponent, at PayPal
+
 
 
 
