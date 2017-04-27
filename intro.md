@@ -90,5 +90,8 @@ requirements, npm, node and a mongo install.
 
 ## Brian Douglas: Frontend for the Serverless stack
 
+API Gateway
+Lambda 
+
 
 
