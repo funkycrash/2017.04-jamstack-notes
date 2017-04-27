@@ -62,7 +62,7 @@ printLabel(myObj);
 
 
 
-### Type Alias
+
 
 
 
