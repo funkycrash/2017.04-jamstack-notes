@@ -72,8 +72,8 @@ Not ideal. You have to pass everything in an URL. Not really flexible. Not respo
 
 ### Xcomponent
 Components but cross domain.
-
-
+Make iframe more reliable, with error handling, pre rendering auto resizing.
+Native binding for React. No event listeners.
 
 
 
