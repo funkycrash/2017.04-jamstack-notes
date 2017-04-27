@@ -8,4 +8,4 @@ This shows how much a simple WordPress install is at risk.
 Decoupled Architecture (Web Browser + Microservices + ) 
 JavaScript is used as main runtime.
 
-For E-commerce, check out GoCommerce Js
+For E-commerce, check out *GoCommerce JS*
