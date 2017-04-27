@@ -44,4 +44,3 @@ Flow is much more like a checker. It cheks the type and then you need to use som
 Typescript is compiling the file.
 
 
-
