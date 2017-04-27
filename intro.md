@@ -76,8 +76,9 @@ Make iframe more reliable, with error handling, pre rendering auto resizing.
 Native binding for React. No event listeners.
 
 
-
-
 ## Panel: A Modern Web Landscape
 Moderator Jessica Parsons chats with web innovators Wilson Miner, Frances Berriman, and Matt Biilmann about best practices, current trends, and future possiblities in modern web development.
+
+
+
 
