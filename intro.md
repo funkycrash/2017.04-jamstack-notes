@@ -21,5 +21,11 @@ For user authentication check out *Stormpath*
 - Instant Cache Invalidation
 
 
-## Netlify CEO Matt Biilmann
+## Preethi Kasireddy: Why Use Static Types In JavaScript?
+
+Two types of types in JavaScript.
+- Static
+- Dynamic
+
+
 
