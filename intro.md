@@ -78,6 +78,4 @@ Native binding for React. No event listeners.
 
 
 
-
-
-
+## Panel: A Modern Web Landscape
