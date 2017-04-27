@@ -47,6 +47,21 @@ Typescript is compiling the file.
 ### Interfaces
 is how you declare the structure of types. (Objects)
 
+```
+interface LabelledValue {
+    label: string;
+}
+
+function printLabel(labelledObj: LabelledValue) {
+    console.log(labelledObj.label);
+}
+
+let myObj = {size: 10, label: "Size 10 Object"};
+printLabel(myObj);
+```
+
+
+
 ### Type Alias
 
 
