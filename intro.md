@@ -45,5 +45,11 @@ Typescript is compiling the file.
 
 
 ### Interfaces
-is how you declare the structure of types.
+is how you declare the structure of types. (Objects)
+
+### Type Alias
+
+
+
+
 
